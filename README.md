@@ -84,6 +84,20 @@ Mes projets personnels sont dans des dépôts privés. Je peux présenter le cod
 
 ---
 
+## Statistiques GitHub
+
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="49%" alt="Profil GitHub"/>
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="Langages les plus utilisés"/>
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" alt="Dépôts par langage"/>
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="Statistiques"/>
+</p>
+
+---
+
 <p align="center">
   <strong>Concevoir des solutions logicielles fiables, durables et évolutives.</strong>
   <br>
