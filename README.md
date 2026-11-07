@@ -80,7 +80,7 @@
 
 ## Projets
 
-Mes projets académiques et personnels sont dans des dépôts privés. Je peux présenter le code et l'architecture sur demande.
+Mes projets personnels sont dans des dépôts privés. Je peux présenter le code et l'architecture sur demande.
 
 ---
 
